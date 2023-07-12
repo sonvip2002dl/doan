@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj" 
+TO ".\Objects\mm" 
+
+PRINT(".\Listings\mm.map")

@@ -1,0 +1,4 @@
+openmv.c:18:6:Openmv_Receive_Data	8	static
+openmv.c:75:6:Openmv_Data	0	static
+openmv.c:92:6:Openmv_Flag	16	static
+openmv.c:107:6:Car_mode_control	0	static

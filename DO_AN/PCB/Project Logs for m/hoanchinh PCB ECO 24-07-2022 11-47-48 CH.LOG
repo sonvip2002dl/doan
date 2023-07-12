@@ -1,0 +1,6 @@
+Added Component: Designator=HD2(HED2)
+Added Pin To Net: NetName=NetQ1_2 Pin=HD2-1
+Added Pin To Net: NetName=GND Pin=HD2-2
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetHD2_1
+Added Member To Class: ClassName=nguyenly Member=Component HD2 Header 2
+Added Room: Name=nguyenly
